@@ -33,7 +33,8 @@
     "npm-run-all2": "^8.0.4",
     "oxlint": "~1.11.0",
     "prettier": "3.6.2",
-    "vite": "npm:rolldown-vite@latest",
-    "vite-plugin-vue-devtools": "^8.0.2"
+    "vite": "^6.0.1",
+    "vite-plugin-vue-devtools": "^8.0.2",
+    "vue-eslint-parser": "^10.2.0"
   }
 }
